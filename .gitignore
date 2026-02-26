@@ -1,0 +1,10 @@
+# PyInstaller build artifacts
+build/
+dist/
+__pycache__/
+
+# Test files from debugging
+test_frozen.pyw
+test_frozen.spec
+test_frozen2.pyw
+test_frozen2.spec
