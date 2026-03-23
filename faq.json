@@ -1,0 +1,12 @@
+[
+    {
+        "question": "What links and formats are supported?",
+        "answer": "You can paste links from YouTube, YouTube Music, and Spotify. Singles, full playlists, and albums all work. Songs are downloaded as MP3 or OGG depending on your settings, and packaged into a BeamNG-ready radiopack zip.",
+        "keywords": "formats links supported youtube spotify"
+    },
+    {
+        "question": "Where does my radiopack go after it's created?",
+        "answer": "By default the radiopack zip is saved to your BeamNG mods folder. You can change the output folder in Settings. Once created, just launch BeamNG and your new radio station will appear in-game.",
+        "keywords": "where find radiopack output folder mods beamng"
+    }
+]
