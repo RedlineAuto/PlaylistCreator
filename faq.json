@@ -38,5 +38,15 @@
         "question": "What does the Bass Export setting do?",
         "answer": "Bass Export generates separate bass-heavy audio tracks and amplitude data for each song. This is used by outdated vehicles that don't use the new UI based music system.",
         "keywords": "bass export v1 amplitude subwoofer shaker audio"
+    },
+    {
+        "question": "My radiopack doesn't appear in-game, what do I do?",
+        "answer": "Open BeamNG's mod manager and make sure the radiopack zip is enabled. If it's not listed, double-check that the zip was saved to the correct mods folder (you can verify or change this in Settings). Restart the game after enabling it.",
+        "keywords": "not showing appearing in-game mod manager missing radio station enable"
+    },
+    {
+        "question": "Where can I get help or report an issue?",
+        "answer": "You can reach out to Rydonz or Spoolin in either of our Discord servers for help:\n\nRedlineAuto: https://discord.gg/j258wxF6bQ\nRoyalRenderings: https://discord.gg/3T6shQtEdM",
+        "keywords": "help support contact discord server issue bug report rydonz spoolin"
     }
 ]
