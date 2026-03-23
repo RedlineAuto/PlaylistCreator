@@ -1,12 +1,42 @@
 [
     {
         "question": "What links and formats are supported?",
-        "answer": "You can paste links from YouTube, YouTube Music, and Spotify. Singles, full playlists, and albums all work. Songs are downloaded as MP3 or OGG depending on your settings, and packaged into a BeamNG-ready radiopack zip.",
-        "keywords": "formats links supported youtube spotify"
+        "answer": "You can paste links from YouTube, YouTube Music, and Spotify. Singles, full playlists, and albums all work. Finished playlists are packaged into a BeamNG-ready radiopack zip.",
+        "keywords": "formats links supported youtube spotify album playlist single"
     },
     {
         "question": "Where does my radiopack go after it's created?",
         "answer": "By default the radiopack zip is saved to your BeamNG mods folder. You can change the output folder in Settings. Once created, just launch BeamNG and your new radio station will appear in-game.",
-        "keywords": "where find radiopack output folder mods beamng"
+        "keywords": "where find radiopack output folder mods beamng location save"
+    },
+    {
+        "question": "Do I need to install anything to use this?",
+        "answer": "The app will automatically install the required Python packages (yt-dlp, etc.) and download ffmpeg for you. Just open the app and it handles the rest. You can check the status of these in Settings under Packages and ffmpeg.",
+        "keywords": "install setup requirements dependencies ffmpeg yt-dlp packages python"
+    },
+    {
+        "question": "Why is my download failing or stuck?",
+        "answer": "This is usually caused by an outdated version of yt-dlp. Go to Settings and click the update button under Packages to get the latest version. If that doesn't help, check the Log for specific error messages.",
+        "keywords": "download fail stuck error not working broken yt-dlp update"
+    },
+    {
+        "question": "Can I use this with any BeamNG vehicle?",
+        "answer": "Radiopacks created with this tool only work with RedlineAuto and RoyalRenderings vehicles that have a compatible radio system. They won't work with vanilla BeamNG vehicles or other mods.",
+        "keywords": "vehicle car mod compatible work vanilla redlineauto royalrenderings"
+    },
+    {
+        "question": "How do I remove songs from my playlist before creating it?",
+        "answer": "You can click the X on any song row in the Song List to remove it individually. You can also use the selection checkboxes to select multiple songs, then click 'Remove Selected' or 'Remove Unselected' to bulk remove.",
+        "keywords": "remove delete song songs playlist bulk select unselect"
+    },
+    {
+        "question": "Is there a limit to how many songs I can add?",
+        "answer": "There's no hard limit, but very large packs (100+ songs) will take longer to download and process, and will produce a larger zip file. We recommend keeping packs under 50 songs for the best experience.",
+        "keywords": "limit songs maximum how many size large"
+    },
+    {
+        "question": "What does the Bass Export setting do?",
+        "answer": "Bass Export generates separate bass-heavy audio tracks and amplitude data for each song. This is used by outdated vehicles that don't use the new UI based music system.",
+        "keywords": "bass export v1 amplitude subwoofer shaker audio"
     }
 ]
