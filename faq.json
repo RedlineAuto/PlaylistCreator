@@ -45,6 +45,11 @@
         "keywords": "not showing appearing in-game mod manager missing radio station enable"
     },
     {
+        "question": "My link isn't working or the app freezes when I paste it",
+        "answer": "Make sure you're pasting a valid link. Here are some examples of supported formats:\n\nYouTube single: https://www.youtube.com/watch?v=dQw4w9WgXcQ\nYouTube playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf\nYouTube Music: https://music.youtube.com/watch?v=dQw4w9WgXcQ\nSpotify track: https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT\nSpotify playlist: https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M\n\nShortened links (youtu.be) and mobile share links also work. If a valid link is still freezing, try updating your packages in Settings.",
+        "keywords": "link not working frozen freeze stuck paste url invalid format example"
+    },
+    {
         "question": "Where can I get help or report an issue?",
         "answer": "You can reach out to Rydonz or Spoolin in either of our Discord servers for help:\n\nRedlineAuto: https://discord.gg/j258wxF6bQ\nRoyalRenderings: https://discord.gg/3T6shQtEdM",
         "keywords": "help support contact discord server issue bug report rydonz spoolin"
