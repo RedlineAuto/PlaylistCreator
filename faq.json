@@ -16,8 +16,13 @@
     },
     {
         "question": "Why is my download failing or stuck?",
-        "answer": "This is usually caused by an outdated version of yt-dlp. Go to Settings and click the update button under Packages to get the latest version. If that doesn't help, check the Log for specific error messages.",
+        "answer": "This is usually caused by an outdated version of yt-dlp. Go to Settings and click the update button under Packages to get the latest version. If you're seeing \"Sign in to confirm you're not a bot\" errors, use the Sign in to YouTube button in Settings. If that doesn't help, check the Log for specific error messages.",
         "keywords": "download fail stuck error not working broken yt-dlp update"
+    },
+    {
+        "question": "I'm getting 'Sign in to confirm you're not a bot' errors",
+        "answer": "YouTube sometimes requires authentication to confirm you're a real user. To fix this, go to Settings and click 'Sign in to YouTube'. A login window will open — sign into your Google account and then close the window. Your session will be saved and used for all future downloads. You can sign out at any time from the same Settings panel.",
+        "keywords": "sign in confirm bot cookies browser login required authentication youtube"
     },
     {
         "question": "Can I use this with any BeamNG vehicle?",
